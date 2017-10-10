@@ -1,5 +1,5 @@
-day1 contains our crappy attempt at the basic imaging without the saturating beam
-day2 contains the better attempt that we made
+day1 contains our data w/o saturating beam BAD NO SUMMING
+day2 contains the better attempt w/o saturating GOOD SUMMING
 day3 contains our attempt at the saturated absorption
 day4 contains our crappy attempt at the michelson interferometer
 day5 contains the better attempt at the michelson interferometer

@@ -19,7 +19,7 @@ ax.axvline(.002774,alpha = 0.5, color='k')
 ax.text(.00276, -.17, '85a', horizontalalignment='right')
 
 ax.annotate(s='', xy=(.00155,-.14), xytext=(.002774,-.14), arrowprops=dict(arrowstyle='<->'))
-ax.text(.00219, -.13, '24.5 cycles',horizontalalignment='center')
+ax.text(.00219, -.13, '24.5 +/- 0.5\ncycles',horizontalalignment='center')
 ax.get_xaxis().set_ticks([])
 ax.get_yaxis().set_ticks([])
 ax.spines['top'].set_visible(False)

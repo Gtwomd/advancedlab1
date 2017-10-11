@@ -12,19 +12,19 @@ ax.axvline(.001545,alpha = 0.5, color='k')
 ax.text(.00153, -.25, '87a', horizontalalignment='right')
 
 ax.annotate(s='', xy=(.001545,-.10), xytext=(.00277,-.10), arrowprops=dict(arrowstyle='<->'))
-ax.text(.00214, -.09, '24.5 cycles',horizontalalignment='center')
+ax.text(.00214, -.09, '24.5 +/- 0.5\ncycles',horizontalalignment='center')
 
 ax.axvline(.00277,alpha = 0.5, color='k')
 ax.text(.00276, -.25, '85a', horizontalalignment='right')
 
 ax.annotate(s='', xy=(.00277,-.10), xytext=(.004116,-.10), arrowprops=dict(arrowstyle='<->'))
-ax.text(.00350, -.09, '28 cycles',horizontalalignment='center')
+ax.text(.00350, -.09, '28 +/- 0.5\ncycles',horizontalalignment='center')
 
 ax.axvline(.004116,alpha = 0.5, color='k')
 ax.text(.00410, -.25, '85b', horizontalalignment='right')
 
 ax.annotate(s='', xy=(.004116,-.10), xytext=(.004639,-.10), arrowprops=dict(arrowstyle='<->'))
-ax.text(.00436, -.09, '11 cycles',horizontalalignment='center')
+ax.text(.00436, -.09, '11 +/- 0.5\ncycles',horizontalalignment='center')
 
 ax.axvline(.004639,alpha = 0.5, color='k')
 ax.text(.00463, -.25, '87b', horizontalalignment='right')
